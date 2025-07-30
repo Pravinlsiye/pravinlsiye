@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pravinlsiye](https://github.com/Pravinlsiye)
 
-- 💬 Ask me about **Mining**
-
 - 📫 How to reach me **Pravin270320@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
