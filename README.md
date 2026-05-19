@@ -98,14 +98,12 @@ fun_fact:  "I think I am funny."
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/pravinlsiye">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pravinlsiye&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinlsiye&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravinlsiye&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravinlsiye&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="200em" src="https://raw.githubusercontent.com/pravinlsiye/pravinlsiye/main/profile-summary-card-output/tokyo-night/most-commit-language.svg" alt="top-langs" />
+  <img height="200em" src="https://raw.githubusercontent.com/pravinlsiye/pravinlsiye/main/profile-summary-card-output/tokyo-night/productive-time.svg" alt="productive-time" />
 </p>
 
 <p align="center">
