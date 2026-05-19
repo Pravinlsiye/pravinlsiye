@@ -102,8 +102,8 @@ fun_fact:  "I think I am funny."
 </p>
 
 <p align="center">
-  <img height="200em" src="https://raw.githubusercontent.com/pravinlsiye/pravinlsiye/main/profile-summary-card-output/tokyo-night/most-commit-language.svg" alt="top-langs" />
-  <img height="200em" src="https://raw.githubusercontent.com/pravinlsiye/pravinlsiye/main/profile-summary-card-output/tokyo-night/productive-time.svg" alt="productive-time" />
+  <img height="200em" src="https://raw.githubusercontent.com/Pravinlsiye/pravinlsiye/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="top-langs" />
+  <img height="200em" src="https://raw.githubusercontent.com/Pravinlsiye/pravinlsiye/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive-time" />
 </p>
 
 <p align="center">
