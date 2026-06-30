@@ -27,5 +27,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          committer: ${{ secrets.GIT_NAME }} <${{ secrets.GIT_EMAIL }}>
+          author: ${{ secrets.GIT_NAME }} <${{ secrets.GIT_EMAIL }}>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

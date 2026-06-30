@@ -22,3 +22,11 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 5
+          AUTO_PUSH: false
+      - name: Commit and push cards
+        run: |
+          git config user.name  "${{ secrets.GIT_NAME }}"
+          git config user.email "${{ secrets.GIT_EMAIL }}"
+          git add profile-summary-card-output
+          git diff --cached --quiet || git commit -m "chore: update profile summary cards"
+          git push
